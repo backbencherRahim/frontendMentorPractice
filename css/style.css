@@ -67,6 +67,12 @@ section {
 }
 
 
+footer {
+    background-color: teal;
+    color: #fff;
+    text-align: center;
+}
+
 /******* Two column layout ****************/
 
 .two-column-layout {
